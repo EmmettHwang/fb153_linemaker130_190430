@@ -1,0 +1,1 @@
+include ':app', 'seekbarlib', 'colorpickerlib', 'libcolorpicker', 'usbSerialForAndroid', ':tedpermission'
